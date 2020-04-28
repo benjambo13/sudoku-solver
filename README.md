@@ -6,8 +6,10 @@ The backend runs on port 9000 and front end 3000.
 
 to start frontend server:
  - cd client
+ - npm install
  - npm start
 
 to start backend server:
  - cd api
+ - npm install
  - npm start
