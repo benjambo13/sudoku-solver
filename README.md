@@ -1,4 +1,12 @@
-# sudoku-solver
+# AI Sudoku Solver
+
+My introduction to Web Development in 2018.
+
+At University I was tasked to create an Evolutionary Algorithm to solve sudoku puzzles. This was coded in Python and I recieved a 1st class grade.
+
+In 2018, I started to focus my coding towards web development and decided to port the Python to JavaScript and attach that to an express server to learn the basics of Node.js/express servers. Moreover, I created a UI for users to enter sudoku's they wish to solve. I really enjoyed this project. Its good to look back on and see where my web development journey started.
+
+## Running the Code
 
 In order to run the web application you need both backend and fontend servers running. 
 
